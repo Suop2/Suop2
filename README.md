@@ -1,11 +1,11 @@
-[![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/browserneo)
+[![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/suop2)
 
 
-       Привет ! Меня зовут Егор, мой [телеграмм]([url](https://t.me/eggorqa))
+       Привет ! Меня зовут Егор, мой [телеграмм](https://t.me/eggorqa)
        
 
 
-<img align="right" width="350" src="https://giphy.com/gifs/Marinaannsimone-questions-q-a-marina-simone-zzD83Y042i0b9kN22B">via GIPHY"/>
+<img align="right" width="350" src="https://giphy.com/gifs/Marinaannsimone-questions-q-a-marina-simone-zzD83Y042i0b9kN22B"/>
 
   <img src="steck/wave.gif" width="40px">
   
