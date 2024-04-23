@@ -1,4 +1,4 @@
-[![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/suop2)
+[![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/Suop2)
 
 
        Привет ! Меня зовут Егор, мой [телеграмм](https://t.me/eggorqa)
