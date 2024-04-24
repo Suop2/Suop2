@@ -5,7 +5,7 @@
        
 
 
-<img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzajcyNTQ2aHR2eHFlem5rdzJpN3EzcnBrNG00azJsMGQwbGY2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzD83Y042i0b9kN22B/giphy.gif"/>
+<img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzajcyNTQ2aHR2eHFlem5rdzJpN3EzcnBrNG00azJsMGQwbGY2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzD83Y042i0b9kN22B/giphy.gif"/>
 
   <img src="steck/wave.gif" width="40px">
   
@@ -17,7 +17,6 @@
 - ⚡ В работе мне помогают Postman, Devtools, Charles, Metabase, Test It, Kibana, Sentry, Notions, Gitlab, Android Studio, Kafka
 - 🌱 Развиваться хотел бы в области автотестирования и нагрузочного тестирования
 - 👯 Помогаю ребятам с техподдержки
-- 😄 А тебе могу помочь выбрать фильм или сериал на вечер (посмотрел больше тысячи))
 - 🤔 Самое сложное в работе тестировщика - это понять, почему этот баг - фича
 - 💞️ Люблю кошек и качественные прелоадеры
 <br>
