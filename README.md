@@ -5,7 +5,7 @@
        
 
 
-<img align="right" width="350" src="[https://giphy.com/gifs/Marinaannsimone-questions-q-a-marina-simone-zzD83Y042i0b9kN22B](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzajcyNTQ2aHR2eHFlem5rdzJpN3EzcnBrNG00azJsMGQwbGY2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzD83Y042i0b9kN22B/giphy.gif)"/>
+<img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAzajcyNTQ2aHR2eHFlem5rdzJpN3EzcnBrNG00azJsMGQwbGY2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzD83Y042i0b9kN22B/giphy.gif"/>
 
   <img src="steck/wave.gif" width="40px">
   
