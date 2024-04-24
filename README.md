@@ -5,7 +5,7 @@
        
 
 
-<img align="right" width="350" src="https://giphy.com/embed/zzD83Y042i0b9kN22B"/>
+<img align="right" width="350" src="[https://giphy.com/embed/zzD83Y042i0b9kN22B](https://giphy.com/gifs/Marinaannsimone-questions-q-a-marina-simone-zzD83Y042i0b9kN22B)"/>
 
   <img src="steck/wave.gif" width="40px">
   
