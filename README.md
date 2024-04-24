@@ -1,7 +1,7 @@
 [![HitCount](https://komarev.com/ghpvc/?username=Suop2&label=Profile%20views&color=60dae2&style=flat)](https://github.com/Suop2)
 
 
-       Привет ! Меня зовут Егор, мой <a href="https://t.me/eggorqa">Telegram</a>
+       Привет ! Меня зовут Егор, мой <a href="https://t.me/eggorqa"> Telegram </a>
        
 
 
