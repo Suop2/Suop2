@@ -5,7 +5,7 @@
        
 
 
-<img align="right" width="350" src="https://giphy.com/gifs/Marinaannsimone-questions-q-a-marina-simone-zzD83Y042i0b9kN22B"/>
+<iframe src="https://giphy.com/embed/zzD83Y042i0b9kN22B" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Marinaannsimone-questions-q-a-marina-simone-zzD83Y042i0b9kN22B">via GIPHY</a></p>/>
 
   <img src="steck/wave.gif" width="40px">
   
