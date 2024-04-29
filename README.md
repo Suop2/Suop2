@@ -19,5 +19,9 @@
 - 👯 Помогаю ребятам с техподдержки
 - 🤔 Самое сложное в работе тестировщика - это понять, почему этот баг - фича
 - 💞️ Люблю кошек и качественные прелоадеры
-<br>
 
+
+## 💻 Technology stack
+
+
+<img width="6%" title="Android Studio.svg" src="https://github.com/Suop2/steck/blob/main/Android%20Studio.svg">  <img width="6%" title="Charles.svg" src="https://github.com/Suop2/steck/blob/main/Charles.svg"> <img width="6%" title="Devtools.svg" src="https://github.com/Suop2/steck/blob/main/Devtools.svg">   <img width="6%" title="Figma.svg" src="https://github.com/Suop2/steck/blob/main/Figma.svg">   <img width="6%" title="GitHub.svg" src="https://github.com/Suop2/steck/blob/main/GitHub.svg">   <img width="6%" title="GitLab.svg" src="https://github.com/Suop2/steck/blob/main/GitLab.svg">    <img width="6%" title="Jenkins.svg" src="https://github.com/Suop2/steck/blob/main/Jenkins.svg">   <img width="6%" title="Metabase.svg" src="https://github.com/Suop2/steck/blob/main/Metabase.svg">  <img width="6%" title="Postman.svg" src="https://github.com/Suop2/steck/blob/main/Postman.svg">   <img width="6%" title="Sentry.svg" src="https://github.com/Suop2/steck/blob/main/Sentry.svg">    <img width="6%" title="Kibana.svg" src="https://github.com/Suop2/steck/blob/main/Kibana.svg">    
